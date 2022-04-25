@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Masaiunit4coding3/static/css/main.9e082b1b.css",
+    "main.js": "/Masaiunit4coding3/static/js/main.2aa23e2b.js",
+    "static/js/787.9ec34965.chunk.js": "/Masaiunit4coding3/static/js/787.9ec34965.chunk.js",
+    "index.html": "/Masaiunit4coding3/index.html",
+    "main.9e082b1b.css.map": "/Masaiunit4coding3/static/css/main.9e082b1b.css.map",
+    "main.2aa23e2b.js.map": "/Masaiunit4coding3/static/js/main.2aa23e2b.js.map",
+    "787.9ec34965.chunk.js.map": "/Masaiunit4coding3/static/js/787.9ec34965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e082b1b.css",
+    "static/js/main.2aa23e2b.js"
+  ]
+}
